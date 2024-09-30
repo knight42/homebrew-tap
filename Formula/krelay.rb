@@ -1,6 +1,6 @@
 class Krelay < Formula
   homepage "https://github.com/knight42/krelay"
-  version "0.1.1"
+  version "0.1.2"
   head "https://github.com/knight42/krelay.git"
   on_macos do
     on_arm do
